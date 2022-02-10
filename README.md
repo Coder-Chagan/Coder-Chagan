@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayakwad Chagan</h1>
 <h3 align="center">A passionate Python programmer with DataScience</h3>
 
-<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CvfuhA4lYHyTSqLlI_2WM1Em2YvEmH-VAg&usqp=CAU">
+<img align="right" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif?w=500&h=500&fit=crop&crop=entropy&auto=format,compress&gif-q=60">
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance analytical skills**
